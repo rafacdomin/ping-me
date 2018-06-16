@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ping.Me</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="banner_main_activity">ca-app-pub-7625686165906035/4760120328</string>
+    <string name="email">contactrcod@gmail.com</string>
+    <string name="twitter">https://twitter.com/apppingme</string>
+    <!--loadfrag-->
+    <string name="wait">Please wait, this may take a few seconds...</string>
+    <!--abouttab-->
+    <string name="about1">Ping.me connects you to the game server so you can check your ping before entering a match, avoiding losing games and stressing out with the famous lag. </string>
+    <string name="about2">Ping.me is an app made by a gamer for gamers, if you have any suggestion of game or server, please send a message to us! :)</string>
+    <!--pingtab-->
+    <string name="buttomping">Check Ping</string>
+    <string name="selectserver">Select the server :</string>
+    <!--results-->
+    <string name="average">Average:</string>
+    <string name="max">Max: </string>
+    <string name="warning">Warning: these results may vary slightly from actual ping.</string>
+    <string name="buttomcheck_again">Check Again</string>
+    <string name="buttomchange_server">Change Server</string>
+</resources>
